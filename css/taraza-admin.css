@@ -1,0 +1,145 @@
+
+@import url('http://fonts.googleapis.com/css?family=Roboto+Condensed|Josefin+Slab|Droid+Sans|PT+Sans|Arvo|Neucha|Pacifico|Merienda|Raleway|Yanone Kaffeesatz|Fjalla One');
+
+.wrap-admin{
+	font-family: "Lucida Grande", Sans-serif;
+	background-color: #eeeeee;
+	background-repeat: repeat-x;
+	border: 1px solid #e5e5e5;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-moz-box-shadow: 0 1px 0 #ffffff inset, 0 1px 5px rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 1px 0 #ffffff inset, 0 1px 5px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 1px 0 #ffffff inset, 0 1px 5px rgba(0, 0, 0, 0.1);
+	margin-top: 20px;
+	overflow: hidden;
+	width:99%;
+}
+.menu-admin{
+	margin: 20px auto;
+	padding: 0;
+	text-align: center;
+	background: #ffffff;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #eee;
+	width:78%;
+}
+.menu-admin li{
+	padding: 15px 20px;
+	border-right: 1px solid #eee;
+	cursor: pointer;
+	margin-bottom: 0;
+	list-style-type: none;
+	display: inline-block;
+	color: #aaa;
+}
+.menu-admin li:hover{
+	background: #dedede;
+}
+.menu-admin li.active{
+	background: #fff;
+	color: #888;
+	font-weight: bold;text-decoration:underline;
+}
+#menu_gen{
+background:#fdfdef;
+}
+#menu_hp{
+background:#f6f3d0;
+}
+#menu_sli{
+background:#f6f6ff;
+}
+#menu_goo{
+
+background:#f6ffff;
+}
+.bloc_menu{
+width:79%;margin:auto;
+}
+
+#bloc_gen, #bloc_hp, #bloc_sli, #bloc_goo{
+	display:none;
+}
+.wrap-admin input[type="submit"]{
+	border: 1px solid #e5e5e5;
+	cursor: pointer;
+	text-shadow: 0px 1px 1px rgba(255, 255, 255, 0.4);
+	color: #222222;
+	text-align: center;
+	display: inline-block;
+	border-radius: 4px;
+	float: right;
+	margin:10px;
+	font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	font-weight: bold;
+	background: #dbdbdb;
+	background: -moz-linear-gradient(top, #dbdbdb 0%, #f1f1f1 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #dbdbdb), color-stop(100%, #f1f1f1));
+	background: -webkit-linear-gradient(top, #dbdbdb 0%, #f1f1f1 100%);
+	background: -o-linear-gradient(top, #dbdbdb 0%, #f1f1f1 100%);
+	background: -ms-linear-gradient(top, #dbdbdb 0%, #f1f1f1 100%);
+	background: linear-gradient(top, #dbdbdb 0%, #f1f1f1 100%);
+	filter: progid:dximagetransform.microsoft.gradient(startColorstr=#dbdbdb, endColorstr=#f1f1f1, GradientType=0);
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.2);
+	width: 160px;
+	margin-left: 5px;
+}
+.wrap-admin input[type="submit"]:hover{
+background: #dbdbdb;
+text-shadow: 0px 1px 2px #949494;
+border: 1px solid #8c8c8c;
+box-shadow: 1px 1px 4px #8c8c8c;
+-moz-box-shadow: 1px 1px 4px #8c8c8c;
+-webkit-box-shadow: 1px 1px 4px #8c8c8c;
+}
+
+
+.wp-color-result {
+background-color: #f9f9f9;
+border: 1px solid #bbb;
+border-radius: 2px;
+cursor: pointer;
+display: inline-block;
+height: 22px;
+margin: 0 6px 6px 0;
+position: relative;
+top: 1px;
+user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+-webkit-user-select: none;
+vertical-align: bottom;
+display: inline-block;
+padding-left: 30px;
+}
+
+fieldset{
+margin:5px 5px 15px 5px;
+background:#ffffff;
+padding:8px;
+border: 1px solid #e5e5e5;
+color:#aaa;
+}
+
+
+fieldset legend{
+color: #4e4e4e;
+font-weight: bold;
+padding: 0px 5px;
+font-size:16px;
+}
+.joliSelect{
+font-size:14px;
+}
+.joliSelect ul{
+font-size:14px;
+}
+#signature, #signature a{
+color: #dddddd;
+padding: 5px;
+text-shadow: 0px 1px 0 #a7a7a7;
+}
+.taraza_hp_sl_im:nt-child

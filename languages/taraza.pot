@@ -1,0 +1,580 @@
+# Copyright (C) 2013 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: taraza\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: gaelle <tarabusk@gmail.com>\n"
+"Language-Team: tarabusk.net <tarabusk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: Français\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2 ; plural=(n>1)\n"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups ! Page introuvable."
+
+#: 404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"Apparemment cette adresse ne correspond à rien ... Essayer l'un des liens ci "
+"dessous ?"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Catégories les plus utilisées"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Essayez de chercher dans les archives mensuelles. %1$s"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Jour : %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Mois : %s"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Année : %s"
+
+#: archive.php:48
+msgid "Asides"
+msgstr ""
+
+#: archive.php:51
+msgid "Images"
+msgstr "Images"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Vidéos"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr ""
+
+#: archive.php:60
+msgid "Links"
+msgstr "Liens"
+
+#: archive.php:63 sidebar.php:17
+msgid "Archives"
+msgstr "Archives"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:36 comments.php:56
+msgid "Comment navigation"
+msgstr "Commentaire"
+
+#: comments.php:37 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Anciens commentaires"
+
+#: comments.php:38 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Les commentaires récents  &rarr;"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Rien n'a été trouvé"
+
+#: content-none.php:19
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Pràªt à  publier votre premier article ?<a href=\"%1$s\">Commencer</a>."
+
+#: content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "Désolé, rien ne correspond à votre recherche."
+
+#: content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Page introuvable"
+
+#: content-page.php:18 content-single.php:20 content.php:27 image.php:58
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content-page.php:23 content-single.php:60 content.php:61 image.php:32
+#: image.php:64 inc/template-tags.php:71 inc/template-tags.php:90
+msgid "Edit"
+msgstr "Modifier"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:29 content-single.php:32 content.php:38 content.php:48
+msgid ", "
+msgstr ""
+
+#: content-single.php:37
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr "Cet article a été taggé : %2$s."
+
+#: content-single.php:39
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Lien <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content-single.php:45
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"rel=\"bookmark\">permalink</a>."
+msgstr "Cet article a été publié dans %1$s. Mots clés :  %2$s. "
+
+#: content-single.php:47
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr "Cet article a été publié dans %1$s. "
+
+#: content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lire la suite <span class=\"meta-nav\">&rarr;</span>"
+
+#: content.php:42
+msgid "Posted in %1$s"
+msgstr "Publié dans  %1$s"
+
+#: content.php:52
+msgid "Tagged %1$s"
+msgstr "Taggé : %1$s"
+
+#: content.php:58
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: content.php:58
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: content.php:58
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "Propulsé par %s"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme : %1$s par %2$s."
+
+#: functions.php:48
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:72
+msgid "Sidebar"
+msgstr ""
+
+#: header.php:31
+msgid "Menu"
+msgstr ""
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Contenu"
+
+#: image.php:22
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\">%4$s &times; %5$s</a> in <a "
+"href=\"%6$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Publié <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s"
+"\">%2$s</time></span> à  <a href=\"%3$s\">%4$s &times; %5$s</a> dans <a href="
+"\"%6$s\" rel=\"gallery\">%7$s</a>"
+
+#: image.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+#: image.php:38
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/extras.php:66
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Navigation entre articles"
+
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vieux articles"
+
+#: inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">a dit :</span>"
+
+#: inc/template-tags.php:87
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr "%1$s à %2$s"
+
+#: inc/template-tags.php:94
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire attends modération"
+
+#: inc/template-tags.php:185
+msgid ""
+"<span class=\"posted-on\">Posted on %1$s</span><span class=\"byline\"> by "
+"%2$s</span>"
+msgstr ""
+"<span class=\"posted-on\">Publié %1$s</span><span class=\"byline\"> par "
+"%2$s</span>"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche :"
+
+#: searchform.php:10
+msgctxt "label"
+msgid "Search for:"
+msgstr "Recherche : "
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Recherche &hellip;"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Rechercher"
+
+#: sidebar.php:24
+msgid "Meta"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "_s"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://underscores.me"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Hi. I'm a starter theme called <code>_s</code>, or <em>underscores</em>, if "
+"you like. I'm a theme meant for hacking so don't use me as a <em>Parent "
+"Theme</em>. Instead try turning me into the next, most awesome, WordPress "
+"theme out there. That's what I'm here for."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Automattic"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://automattic.com/"
+msgstr ""
+
+#. Contact form
+msgid "Thanks"
+msgstr "Merci"
+
+#. Contact form
+msgid "Name"
+msgstr "Nom"
+
+#. Contact form
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr "Votre email a été envoyé"
+
+#. Contact form
+msgid "There was an error submitting the form."
+msgstr "Une erreur est survenue lors de la soumission de votre formulaire."
+
+#. Contact form
+msgid "Email"
+msgstr "Email"
+
+#. Contact form
+msgid "Comments"
+msgstr "Message"
+
+#. Contact form
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr "Ne pas remplir"
+
+#. Contact form
+msgid "Send"
+msgstr "Envoyer"
+
+#. Contact form
+msgid "Please check your email"
+msgstr "Veuillez indiquer votre email"
+
+#. Contact form
+msgid "Please check your name"
+msgstr "Veuillez indiquer votre nom"
+
+#. Contact form
+msgid "Your email is incorrect"
+msgstr "Format d'email incorrect"
+
+#. Contact form
+msgid "Your comment is empty"
+msgstr "Veuillez écrire un message"
+
+msgid "Category Archives: %s"
+msgstr "Catégories : %s"
+
+#. Admin
+msgid "General"
+msgstr "Général"
+
+#. Admin
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#. Admin
+msgid "Slider"
+msgstr "Diaporama"
+
+#. Admin
+msgid "Infos"
+msgstr "Infos"
+
+#. Admin
+msgid "Social networks"
+msgstr "Réseaux sociaux"
+
+#. Admin
+msgid "Header"
+msgstr "En-tête"
+
+#. Admin
+msgid "Header background Color"
+msgstr "En-tête : Couleur "
+
+#. Admin
+msgid "Header Font Color"
+msgstr "En-tête : Couleur de police"
+
+#. Admin
+msgid "Header Font Family"
+msgstr "En-tête : Famille de police"
+
+#. Admin
+msgid "Menu cursor Color"
+msgstr "Menu : Couleur du curseur"
+
+#. Admin
+msgid "Enlight the n letter of the title"
+msgstr "Colorer la nième lettre du titre"
+
+#. Admin
+msgid "Content"
+msgstr "Contenu"
+
+#. Admin
+msgid "Font Family"
+msgstr "Global : Famille de police"
+
+#. Admin
+msgid "Titles Font Family"
+msgstr "Titre : Famille de police"
+
+#. Admin
+msgid "Font Color"
+msgstr "Global : Couleur de police"
+
+#. Admin
+msgid "Link Color"
+msgstr "Global : Couleur des liens"
+
+#. Admin
+msgid "Slider Options - Home page"
+msgstr "Options du diaporama - Page d'accueil"
+
+#. Admin
+msgid "Display slider"
+msgstr "Afficher le diaporama"
+
+#. Admin
+msgid "Transition effect"
+msgstr "Transition"
+
+#. Admin
+msgid "Caption shape"
+msgstr "Forme de la légende"
+
+#. Admin
+msgid "Display thumbnails"
+msgstr "Afficher les miniatures"
+
+#. Admin
+msgid "Slider speed"
+msgstr "Vitesse de transition"
+
+#. Admin
+msgid "Number of slides"
+msgstr "Nombre max d'images"
+
+#. Admin
+msgid "Text Home Page"
+msgstr "contenu de la page d'accueil "
+
+#. Admin
+msgid "Title Home page"
+msgstr "Titre de la page d'accueil"
+
+#. Admin
+msgid "Slogan"
+msgstr "Slogan"
+
+#. Admin
+msgid "Content in Blocks Home Page"
+msgstr "Contenu des 4 Blocs"
+
+#. Admin
+msgid "Display blocks"
+msgstr "Afficher les blocs"
+
+#. Admin
+msgid "Block 1 - Title"
+msgstr "Bloc 1 - Titre"
+
+#. Admin
+msgid "Block 2 - Title"
+msgstr "Bloc 2 - Titre"
+
+#. Admin
+msgid "Block 3 - Title"
+msgstr "Bloc 3 - Titre"
+
+#. Admin
+msgid "Block 4 - Title"
+msgstr "Bloc 4 - Titre"
+
+#. Admin
+msgid "Block 1 - Text"
+msgstr "Bloc 1 - Texte"
+
+#. Admin
+msgid "Block 2 - Text"
+msgstr "Bloc 2 - Texte"
+
+#. Admin
+msgid "Block 3 - Text"
+msgstr "Bloc 3 - Texte"
+
+#. Admin
+msgid "Block 4 - Text"
+msgstr "Bloc 4 - Texte"
+
+#. Admin
+msgid "Block 1 - Link"
+msgstr "Bloc 1 - Lien"
+
+#. Admin
+msgid "Block 2 - Link"
+msgstr "Bloc 2 - Lien"
+
+#. Admin
+msgid "Block 3 - Link"
+msgstr "Bloc 3 - Lien"
+
+#. Admin
+msgid "Block 4 - Link"
+msgstr "Bloc 4 - Lien"
+
+#. Admin
+msgid "Block 1 - Image"
+msgstr "Bloc 1 - Image"
+
+#. Admin
+msgid "Block 2 - Image"
+msgstr "Bloc 2 - Image"
+
+#. Admin
+msgid "Block 3 - Image"
+msgstr "Bloc 3 - Image"
+
+#. Admin
+msgid "Block 4 - Image"
+msgstr "Bloc 4 - Image"
+
+#. Admin
+msgid "Contact form"
+msgstr "Formulaire de contact"
+
+#. Admin
+msgid "Email for the contact Form"
+msgstr "Email de contact"
+
+#. Admin
+msgid "Google analytics Code"
+msgstr "Code Google Analytics"
+
+#. Admin
+msgid "Tracking Code"
+msgstr "Tracking Code"
+
+#. Admin
+msgid "Tracking Code should looks like"
+msgstr "Votre code doit ressembler à ça :"
+
+#. Admin
+msgid "Social network"
+msgstr "Réseaux sociaux"
+
+#. Admin
+msgid "Display Social networks infos"
+msgstr "Afficher vos réseaux sociaux"
+
+#. Admin
+msgid "Options update"
+msgstr "Mettre à jour"
